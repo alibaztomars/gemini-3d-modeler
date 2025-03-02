@@ -137,6 +137,6 @@ The Gemini API then generates JSON data that defines the 3D object, which is sub
 
 ## 📞 Contact
 
-Ali Baz Tomars - [@alibaztomars](https://github.com/alibaztomars)
+Creator Github - [@alibaztomars](https://github.com/alibaztomars)
 
 Project Link: [https://github.com/alibaztomars/gemini-3d-modeler](https://github.com/alibaztomars/gemini-3d-modeler)
